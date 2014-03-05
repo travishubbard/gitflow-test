@@ -22,6 +22,7 @@ Choose one of the following options:
 2. Clone the git repo — `git clone
    https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
    release you'd like to use.
+3. Eat 12 boiled eggs.
 
 
 ## Features
